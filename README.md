@@ -123,15 +123,15 @@ Features a dark theme, category and product management, QR code generation, soci
 - Vite
 - Tailwind CSS
 - qrcode.react
-
+- 
 ---
+For any questions or feature requests, feel free to reach out!
 
-## 🖼️ Demo
+<div align="center">
 
-![Main Menu](docs/demo-main.png)
-![Admin Panel](docs/demo-admin.png)
+**Made with ❤️ by [@earkali](https://github.com/earkali)**
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/earkali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/earkali)
 
-For any questions or feature requests, feel free to reach out!  
-Enjoy your new digital menu! 🍽️ 
+</div> 

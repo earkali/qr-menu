@@ -1,4 +1,4 @@
-# 🍽️ Lezzet Kapısı - Digital Menu System
+# Digital QR Menu System
 
 A modern, animated, and fully customizable digital restaurant menu website.  
 Features a dark theme, category and product management, QR code generation, social media links, and a powerful admin panel.
@@ -125,7 +125,6 @@ Features a dark theme, category and product management, QR code generation, soci
 - qrcode.react
 - 
 ---
-For any questions or feature requests, feel free to reach out!
 
 <div align="center">
 

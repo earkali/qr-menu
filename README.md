@@ -123,7 +123,7 @@ Features a dark theme, category and product management, QR code generation, soci
 - Vite
 - Tailwind CSS
 - qrcode.react
-- 
+  
 ---
 
 <div align="center">
